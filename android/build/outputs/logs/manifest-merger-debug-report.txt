@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.NFC
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:12:22-59
+uses-permission-sdk-23#android.permission.READ_PHONE_STATE
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:13:29-79
+uses-permission-sdk-23#android.permission.NFC
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:14:29-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:19:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:20:22-64
+application
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:22:5-33:19
+	android:allowBackup
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:23:9-35
+activity#com.pingplusplus.react.PingppActivity
+ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:25:9-31:20
+	android:launchMode
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:28:13-43
+	android:configChanges
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml:26:13-65
+uses-sdk
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		ADDED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml
+		INJECTED from /Users/koppel/shuidao-project/daotian-repair/node_modules/pingpp-react-native/android/AndroidManifest.xml

@@ -1,0 +1,37 @@
+apply plugin: 'com.android.library'
+
+android {
+  compileSdkVersion 23
+  buildToolsVersion "23.0.1"
+  defaultConfig {
+    minSdkVersion 16
+    targetSdkVersion 22
+    versionCode 1
+    versionName "1.0"
+  }
+
+  sourceSets {
+        main() {
+            manifest.srcFile 'AndroidManifest.xml'
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+allprojects {
+  repositories {
+    jcenter()
+    maven { url "$projectDir/../../react-native/android" }
+  }
+}
+
+dependencies {
+  compile fileTree(dir: 'libs', include: ['*.jar'])
+  implementation 'com.facebook.react:react-native:+'
+  implementation 'com.pingxx:pingpp-android:2.+'
+  implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:+' // 使用微信支付时添加,具体版本参考微信官方文档或者 jcenter
+  implementation 'com.pingxx:pingpp-android-alipay:15.6.+' // 使用支付宝时添加
+  implementation 'com.pingxx:pingpp-android-upacp:3.+' // 使用银联支付时添加
+  implementation 'com.pingxx:pingpp-qpay:+' // 使用QQ钱包时添加
+}
